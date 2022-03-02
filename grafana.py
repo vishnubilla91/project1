@@ -14,7 +14,7 @@ start = (now - datetime.timedelta(days=args.days)).strftime('%Y-%m-%d')
 end = now.strftime('%Y-%m-%d')
 
 # to use a specific profile e.g. 'dev'
-session = boto3.session.Session(profile_name='dev')
+session = boto3.session.Session(profile_name='master')
 cd = session.client('ce', 'us-east-1')
 
 results = []
