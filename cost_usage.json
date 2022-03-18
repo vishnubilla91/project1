@@ -1,6 +1,5 @@
-    "ResultsByTime": [
-        {
-            "Estimated": true,
+{
+      "Estimated": true,
             "TimePeriod": {
                 "Start": "2022-03-01",
                 "End": "2022-03-17"
