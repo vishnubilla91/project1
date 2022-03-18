@@ -1,0 +1,69 @@
+TimePeriod	LinkedAccount	Service	Amount	Unit	Estimated
+2022-03-11 	 987696657252	AWS Cost Explorer 	 58.45 	 USD 	 True
+2022-03-11 	 987696657252	AWS Glue 	 0 	 USD 	 True
+2022-03-11 	 987696657252	AWS Lambda 	 0.0000026165 	 USD 	 True
+2022-03-11 	 987696657252	Amazon API Gateway 	 0 	 USD 	 True
+2022-03-11 	 987696657252	Amazon Athena 	 0.0013 	 USD 	 True
+2022-03-11 	 987696657252	EC2 - Other 	 0.0008105296 	 USD 	 True
+2022-03-11 	 987696657252	Amazon Elastic Compute Cloud - Compute 	 0.000034278 	 USD 	 True
+2022-03-11 	 987696657252	Amazon QuickSight 	 0 	 USD 	 True
+2022-03-11 	 987696657252	Amazon Relational Database Service 	 0 	 USD 	 True
+2022-03-11 	 987696657252	Amazon Simple Email Service 	 0.0000378246 	 USD 	 True
+2022-03-11 	 987696657252	Amazon Simple Storage Service 	 0.0008300689 	 USD 	 True
+2022-03-11 	 987696657252	AmazonCloudWatch 	 0.28573 	 USD 	 True
+2022-03-12 	 987696657252	AWS Cost Explorer 	 40.84 	 USD 	 True
+2022-03-12 	 987696657252	AWS Glue 	 0 	 USD 	 True
+2022-03-12 	 987696657252	AWS Key Management Service 	 0 	 USD 	 True
+2022-03-12 	 987696657252	AWS Lambda 	 0 	 USD 	 True
+2022-03-12 	 987696657252	EC2 - Other 	 0.0007346714 	 USD 	 True
+2022-03-12 	 987696657252	Amazon Elastic Compute Cloud - Compute 	 0.000043349 	 USD 	 True
+2022-03-12 	 987696657252	Amazon QuickSight 	 0 	 USD 	 True
+2022-03-12 	 987696657252	Amazon Relational Database Service 	 0 	 USD 	 True
+2022-03-12 	 987696657252	Amazon Simple Storage Service 	 0.00018004 	 USD 	 True
+2022-03-12 	 987696657252	AmazonCloudWatch 	 0.21594 	 USD 	 True
+2022-03-13 	 987696657252	AWS Glue 	 0 	 USD 	 True
+2022-03-13 	 987696657252	AWS Lambda 	 0 	 USD 	 True
+2022-03-13 	 987696657252	EC2 - Other 	 0.0001067695 	 USD 	 True
+2022-03-13 	 987696657252	Amazon Elastic Compute Cloud - Compute 	 0.0000128392 	 USD 	 True
+2022-03-13 	 987696657252	Amazon QuickSight 	 0 	 USD 	 True
+2022-03-13 	 987696657252	Amazon Relational Database Service 	 0 	 USD 	 True
+2022-03-13 	 987696657252	Amazon Simple Storage Service 	 0.00024006 	 USD 	 True
+2022-03-13 	 987696657252	AmazonCloudWatch 	 0 	 USD 	 True
+2022-03-14 	 987696657252	AWS Cost Explorer 	 0.68 	 USD 	 True
+2022-03-14 	 987696657252	AWS Glue 	 0 	 USD 	 True
+2022-03-14 	 987696657252	AWS Lambda 	 0.0000020975 	 USD 	 True
+2022-03-14 	 987696657252	Amazon API Gateway 	 0 	 USD 	 True
+2022-03-14 	 987696657252	EC2 - Other 	 0.0000000258 	 USD 	 True
+2022-03-14 	 987696657252	Amazon Elastic Compute Cloud - Compute 	 0 	 USD 	 True
+2022-03-14 	 987696657252	Amazon QuickSight 	 0 	 USD 	 True
+2022-03-14 	 987696657252	Amazon Relational Database Service 	 0 	 USD 	 True
+2022-03-14 	 987696657252	Amazon Simple Email Service 	 0.0000303568 	 USD 	 True
+2022-03-14 	 987696657252	Amazon Simple Storage Service 	 0.0001800356 	 USD 	 True
+2022-03-14 	 987696657252	AmazonCloudWatch 	 0 	 USD 	 True
+2022-03-15 	 987696657252	AWS Budgets 	 0.01 	 USD 	 True
+2022-03-15 	 987696657252	AWS Glue 	 0 	 USD 	 True
+2022-03-15 	 987696657252	AWS Lambda 	 0 	 USD 	 True
+2022-03-15 	 987696657252	Amazon Athena 	 0.00005 	 USD 	 True
+2022-03-15 	 987696657252	EC2 - Other 	 0.0000000114 	 USD 	 True
+2022-03-15 	 987696657252	Amazon Elastic Compute Cloud - Compute 	 0 	 USD 	 True
+2022-03-15 	 987696657252	Amazon QuickSight 	 0 	 USD 	 True
+2022-03-15 	 987696657252	Amazon Relational Database Service 	 0.0000000004 	 USD 	 True
+2022-03-15 	 987696657252	Amazon Simple Storage Service 	 0.0002550445 	 USD 	 True
+2022-03-15 	 987696657252	AmazonCloudWatch 	 0 	 USD 	 True
+2022-03-16 	 987696657252	AWS Budgets 	 0.01 	 USD 	 True
+2022-03-16 	 987696657252	AWS Glue 	 0 	 USD 	 True
+2022-03-16 	 987696657252	AWS Lambda 	 0 	 USD 	 True
+2022-03-16 	 987696657252	Amazon QuickSight 	 0 	 USD 	 True
+2022-03-16 	 987696657252	Amazon Relational Database Service 	 0.0042020506 	 USD 	 True
+2022-03-16 	 987696657252	Amazon Simple Storage Service 	 0.00024006 	 USD 	 True
+2022-03-16 	 987696657252	AmazonCloudWatch 	 0 	 USD 	 True
+2022-03-17 	 987696657252	AWS Budgets 	 0.01 	 USD 	 True
+2022-03-17 	 987696657252	AWS Glue 	 0 	 USD 	 True
+2022-03-17 	 987696657252	AWS Key Management Service 	 0 	 USD 	 True
+2022-03-17 	 987696657252	AWS Lambda 	 0 	 USD 	 True
+2022-03-17 	 987696657252	EC2 - Other 	 0.0067827247 	 USD 	 True
+2022-03-17 	 987696657252	Amazon Elastic Compute Cloud - Compute 	 0 	 USD 	 True
+2022-03-17 	 987696657252	Amazon QuickSight 	 0 	 USD 	 True
+2022-03-17 	 987696657252	Amazon Relational Database Service 	 0.0035912298 	 USD 	 True
+2022-03-17 	 987696657252	Amazon Simple Storage Service 	 0.00016004 	 USD 	 True
+2022-03-17 	 987696657252	AmazonCloudWatch 	 0 	 USD 	 True
