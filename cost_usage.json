@@ -1,0 +1,218 @@
+{
+    "GroupDefinitions": [
+        {
+            "Type": "DIMENSION",
+            "Key": "SERVICE"
+        }
+    ],
+    "ResultsByTime": [
+        {
+            "Estimated": true,
+            "TimePeriod": {
+                "Start": "2022-03-01",
+                "End": "2022-03-17"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.02",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Cost Explorer"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "136.66",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Glue"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Lambda"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0000068045",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon API Gateway"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Athena"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0606",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "EC2 - Other"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0032728939",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Elastic Compute Cloud - Compute"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "1.0258135287",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Managed Grafana"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon QuickSight"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Relational Database Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0042020541",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Email Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0002982958",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Notification Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Queue Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0220455055",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AmazonCloudWatch"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.97438",
+                            "Unit": "USD"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Tax"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "24.98",
+                            "Unit": "USD"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
